@@ -234,3 +234,138 @@ nav ul li a{
     font-size: 20px;
     line-height: 170%;
 }
+.pic1 {
+    position: absolute;
+    width: 59.3%;
+    height: 570px;
+    left: 20.35%;
+    top: 2215px;
+
+    background: url(.jpg);
+}
+
+.q1 {
+    position: absolute;
+    width: 33.4%;
+    height: 44px;
+    left: 33.26%;
+    top: 2797px;
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.table6 {
+    position: absolute;
+    width: 44.44%;
+    height: 272px;
+    left: 27.78%;
+    top: 2893px;
+    display: grid;
+    align-content: space-between;
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+
+    color: #000000;
+}
+.q4{
+    position: absolute;
+    width: 44.44%;
+    height: 34px;
+    left: 27.78%;
+    top: 3217px;
+    display: grid;
+    align-content: space-between;
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;
+}
+.table7 {
+    position: absolute;
+    width: 40.83%;
+    height: 168px;
+    left: 29.44%;
+    top: 3270px;
+
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;
+}
+.pic2 {
+    position: absolute;
+    width: 0.41%;
+    height: 6px;
+    left: 28.05%;
+    top: 3283px;
+    background: #000000;
+    transform: rotate(45deg);
+}
+.pic3 {
+    position: absolute;
+    width: 0.41%;
+    height: 6px;
+    left: 28.05%;
+    top: 3334px;
+    background: #000000;
+    transform: rotate(45deg);
+}
+.pic4{
+    position: absolute;
+    width: 0.41%;
+    height: 6px;
+    left: 28.05%;
+    top: 3417px;
+    
+    background: #000000;
+    transform: rotate(45deg);}
+.second {
+    margin-top: 18px;
+}
+.third {
+    margin-top: 14px;
+}
+.q2 {
+    position: absolute;
+    width: 44.44%;
+    height: 68px;   
+    left: 27.78%;
+    top: 3490px;
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;
+}
+
+.table8 {
+    position: absolute;
+    width: 44.44%;
+    height: 68px;
+    left: 27.78%;
+    top: 3610px;
+    
+    font-family: 'New York Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;    
+}
+
